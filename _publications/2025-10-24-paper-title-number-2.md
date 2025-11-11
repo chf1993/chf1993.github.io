@@ -2,9 +2,9 @@
 title: "Lightweight sign language intelligent recognition model based on improved R-C3D"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-12-10-paper-title-number-2
+permalink: /publication/2025-10-24-paper-title-number-2
 excerpt: 'Continuous dynamic sign language recognition via improved regional 3D CNN: Depthwise separable convolution + inverted residual (reduced computation/loss); optimized anchor box + higher action threshold (accuracy up: 44.6%, speed: 183 ms, loss: 0.15) → outperforms other schemes.'
-date: 2025-12
+date: 2025-10-24
 venue: 'Egyptian Informatics Journal'
 slidesurl: 'https://chf1993.github.io/files/slides2.pdf'
 paperurl: 'https://chf1993.github.io/files/paper2.pdf'
