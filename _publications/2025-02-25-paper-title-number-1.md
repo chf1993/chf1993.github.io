@@ -6,8 +6,8 @@ permalink: /publication/2025-02-25-paper-title-number-1
 excerpt: 'Biomechanical feature extraction/applications for robust sign language recognition: An improved EfficientDet-D0-based algorithm (via signal processing/machine learning) enhances recognition accuracy/robustness, supporting barrier-free communication and advancing HCI/biomedical engineering.'
 date: 2025-02-25
 venue: 'Molecular &amp; Cellular Biomechanics'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
+slidesurl: 'https://chf1993.github.io/files/slides1.pdf'
+paperurl: 'https://chf1993.github.io/files/paper1.pdf'
 citation: 'Chen, H. (2025). Biomechanical feature extraction for robust sign language recognition with applications. Molecular & Cellular Biomechanics, 22(3), 1322. https://doi.org/10.62617/mcb1322'
 ---
 
