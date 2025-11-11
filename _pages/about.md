@@ -9,6 +9,6 @@ redirect_from:
 
 I'm a PhD-to-Master's scholar from [Nanjing University of Science and Technology](https://english.njust.edu.cn/). My research interest includes Sign Language Recognition, Electronic Circuit Design, Signal and Data Analysis, and Field Experiment Design and Implementation.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Chen's Curriculum Vitae](../assets/ChfCv01_23.pdf).
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+[Email](alex_chenhf@foxmail.com) / [Github](https://github.com/chf1993) / [Wechat](../images/wechat.jpg) 
